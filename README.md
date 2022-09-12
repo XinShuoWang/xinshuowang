@@ -1,5 +1,5 @@
 ### Interest in
-- Clickhouse、Postgresql、OceanBase
+- Clickhouse、Postgresql
 - RDMA、TCP/IP
 - RISC-V、ARM
 - Linux kernel
